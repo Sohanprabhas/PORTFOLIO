@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sohanprabhas/portfolio/static/css/main.f2e1666b.css",
+    "main.js": "/Sohanprabhas/portfolio/static/js/main.9f6d8dba.js",
+    "static/js/453.5d79306b.chunk.js": "/Sohanprabhas/portfolio/static/js/453.5d79306b.chunk.js",
+    "static/media/home-main.svg": "/Sohanprabhas/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Sohanprabhas/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/SohanPrabhas_Resume.pdf": "/Sohanprabhas/portfolio/static/media/SohanPrabhas_Resume.8eb45880b20b9c2667bd.pdf",
+    "static/media/logo.png": "/Sohanprabhas/portfolio/static/media/logo.b5f07d97cd3e45e61ff2.png",
+    "static/media/resume.png": "/Sohanprabhas/portfolio/static/media/resume.7ca9b7715a54f666348c.png",
+    "static/media/home-bg.jpg": "/Sohanprabhas/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/weather.png": "/Sohanprabhas/portfolio/static/media/weather.67bf6c36583a0e36e050.png",
+    "static/media/calculator.png": "/Sohanprabhas/portfolio/static/media/calculator.43af54258cd3e3fb1fc7.png",
+    "static/media/avatar.svg": "/Sohanprabhas/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "index.html": "/Sohanprabhas/portfolio/index.html",
+    "static/media/pre.svg": "/Sohanprabhas/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "main.f2e1666b.css.map": "/Sohanprabhas/portfolio/static/css/main.f2e1666b.css.map",
+    "main.9f6d8dba.js.map": "/Sohanprabhas/portfolio/static/js/main.9f6d8dba.js.map",
+    "453.5d79306b.chunk.js.map": "/Sohanprabhas/portfolio/static/js/453.5d79306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e1666b.css",
+    "static/js/main.9f6d8dba.js"
+  ]
+}

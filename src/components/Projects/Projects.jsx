@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import resumeImg from "../../Assets/Projects/Resume.png";
-import weatherImg from "../../Assets/Projects/weather.png";
-import calculatorImg from "../../Assets/Projects/calculator.png";
-import portfolioImg from "../../Assets/Projects/portfolio.png";
+import resumeImg from "../../assets/Projects/resume.png";
+import weatherImg from "../../assets/Projects/weather.png";
+import calculatorImg from "../../assets/Projects/calculator.png";
+import portfolioImg from "../../assets/Projects/portfolio.png";
 
 function Projects() {
   return (

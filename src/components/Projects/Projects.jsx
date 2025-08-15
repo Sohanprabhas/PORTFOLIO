@@ -2,9 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import resumeImg from "../../Assets/Projects/resume.png";
+import resumeImg from "../../Assets/Projects/Resume.png";
 import weatherImg from "../../Assets/Projects/weather.png";
 import calculatorImg from "../../Assets/Projects/calculator.png";
+import portfolioImg from "../../Assets/Projects/portfolio.png";
 
 function Projects() {
   return (
@@ -43,6 +44,16 @@ function Projects() {
           title="Calculator"
           description="A simple and interactive calculator web app built using JavaScript and React. Features include basic arithmetic operations, a clean user interface, and responsive design for seamless use across devices."
           ghLink="https://github.com/Sohanprabhas/CALCULATAOR"
+         />
+        </Col>
+
+        <Col md={6} className="project-card">
+          <ProjectCard
+          imgPath={portfolioImg}
+          isBlog={false}
+          title="Portfolio"
+          description="A personal portfolio website built with React.js and Bootstrap showcasing my projects, skills, and resume. Fully responsive and deployed on GitHub Pages."
+          ghLink="https://github.com/Sohanprabhas/PORTFOLIO"
          />
         </Col>
         
